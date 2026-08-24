@@ -15,7 +15,7 @@ I'm a passionate **BSCS undergraduate** with a strong foundation in **front-end 
 - Working on **FYP — Medical Healthcare App** (Flutter)
 
 📚 **Education:**
-- BSCS (2022-2026) | Karachi, Pakistan
+- BSCS (2023-2026) | Karachi, Pakistan
 
 ---
 
