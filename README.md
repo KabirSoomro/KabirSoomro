@@ -1,96 +1,226 @@
-# 👋 Assalam-o-Alaikum! I'm Kabeer Soomro
+<div align="center">
 
-🚀 **BSCS Undergraduate** | 💻 **Front-End Developer** | 📱 **Flutter Learner** | 🧠 **Problem Solver**
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1760,50:5B21B6,100:00C9FF&height=260&section=header&text=Ghulam%20Kabir%20Soomro&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Flutter%20%26%20AI%2FML%20Explorer&descAlignY=58&descSize=20" width="100%"/>
 
----
+<!-- Animated typing intro -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=8A5CFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Assalam-o-Alaikum%2C+I'm+Kabeer+%F0%9F%91%8B;BSCS+Undergraduate+%40+University+of+Sindh;Web+Dev+Intern+%40+SYNTECXHUB;Flutter+%2B+AI%2FML+Learner+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
 
-## 🌟 About Me
+<br/>
 
-I'm a passionate **BSCS undergraduate** with a strong foundation in **front-end development** and a growing expertise in **backend technologies** and **mobile app development**. I love turning complex problems into simple, beautiful solutions.
+<!-- Social + status badges -->
+<a href="https://linkedin.com/in/kabeer-soomro-010a42244">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://kabirsoomro.github.io/kabeerportfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" />
+</a>
+<a href="mailto:gkabeersoomro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=KabirSoomro&style=for-the-badge&color=8A5CFF&label=PROFILE+VIEWS" />
 
-🎯 **Current Focus:**
-- Building interactive web applications
-- Strengthening JavaScript logic and state management
-- Learning **Flutter** for cross-platform mobile development
-- Working on **FYP — Medical Healthcare App** (Flutter)
+</div>
 
-📚 **Education:**
-- BSCS (2023-2026) | Karachi, Pakistan
+<br/>
 
----
+## 🧬 About Me
 
-## 🛠️ Tech Stack
+```yaml
+kabeer:
+  role: "BSCS Undergraduate | Front-End Developer | Flutter Learner"
+  university: "University of Sindh, Jamshoro"
+  internship: "Web Development Intern @ SYNTECXHUB"
+  currently_building: "Digital Health Analyzer — AI-powered mobile health app (FYP)"
+  currently_exploring: "Dermalyze — Skin disease detection with EfficientNetV2-S + Grad-CAM"
+  fun_fact: "Turns complex problems into simple, beautiful, animated interfaces ✨"
+```
 
-### Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- 🎯 Building interactive, animation-rich web applications
+- 📱 Strengthening **Flutter** for cross-platform mobile development
+- 🧠 Diving into **AI/ML** with TensorFlow, Keras & TensorFlow Lite
+- 🩺 Shipping my **Final Year Project** — an AI-powered health monitoring app
+- 💬 Ask me about: JavaScript, Flutter, React, or Firebase
 
-### Tools & Technologies
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<br/>
 
----
+## 🛠️ Tech Arsenal
 
-## 🏆 Internship Projects (SYNTECXHUB)
+<div align="center">
 
-### Task 1 — Landing Page
-🔗 [**CodeWise AI Landing Page**](https://kabirsoomro.github.io/SyntexhubLandingPage/)  
-*AI-powered developer tool landing page | HTML, CSS, JavaScript*
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,py,java,cpp,dart&theme=dark" />
 
-### Task 2 — To-Do List App
-🔗 [**To-Do List App**](https://kabirsoomro.github.io/Syntexhub_TodoApp/)  
-*CRUD operations with localStorage | HTML, CSS, JavaScript*
+**Frontend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" />
 
-### Task 3 — Quiz App
-🔗 [**World Quiz Challenge**](https://kabirsoomro.github.io/Syntexhub_QuizApp/)  
-*4 categories, 32 questions | HTML, CSS, JavaScript*
+**Mobile & AI/ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,tensorflow,opencv&theme=dark" />
 
----
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman&theme=dark" />
 
-## 🏥 FYP Project — Medical Healthcare App
+</div>
 
-📱 **HealthCare Plus** — A cross-platform mobile application built with **Flutter** to assist patients and healthcare providers with appointment management, health records, and real-time communication.
+<br/>
 
-### Key Features:
-- ✅ Patient registration and profile management
-- ✅ Doctor appointment scheduling
-- ✅ Electronic Health Records (EHR)
-- ✅ Real-time chat with doctors
-- ✅ Medicine reminders and notifications
-- ✅ Firebase backend integration
+## 📊 GitHub Analytics
 
-### Tech Stack:
-- **Frontend:** Flutter, Dart
-- **Backend:** Firebase (Firestore, Authentication, Cloud Messaging)
-- **State Management:** Provider / Riverpod
+<div align="center">
 
-> 🔗 *Repository link coming soon!*
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KabirSoomro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A5CFF&icon_color=00C9FF&border_radius=12" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KabirSoomro&theme=radical&hide_border=true&background=0D1117&ring=8A5CFF&fire=00C9FF&border_radius=12" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabirSoomro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A5CFF&border_radius=12" />
 
-## 📊 GitHub Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KabirSoomro&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=8A5CFF&point=ffffff" width="95%"/>
 
-![Kabeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabirSoomro&show_icons=true&theme=radical)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirSoomro&layout=compact&theme=radical)
+> 💡 Want the animated snake contribution graph shown here too? Add the free **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — I've left a note at the bottom of this file on how to wire it up in 2 minutes.
 
----
+<br/>
 
-## 📫 Let's Connect
+## 🏆 Trophy Case
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kabeer-soomro-010a42244)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kabirsoomro.github.io/kabeerportfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gkabeersoomro@gmail.com)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KabirSoomro&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</div>
 
----
+<br/>
 
-⭐ **"Code is poetry — write it with purpose."**
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Digital Health Analyzer <sub><i>(Final Year Project)</i></sub>
+AI-powered cross-platform mobile app for health monitoring — patient profiles, appointment scheduling, EHR, real-time doctor chat, and medicine reminders.
+
+**Stack:** Flutter · Dart · Firebase · TensorFlow Lite · Google ML Kit
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Dermalyze
+Skin disease detection AI system using **EfficientNetV2-S** with Grad-CAM visual explanations, served through a Flask API and containerized with Docker.
+
+**Stack:** Python · TensorFlow · Flask · Docker · Grad-CAM
+
+<img src="https://img.shields.io/badge/Status-Exploring-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 GadgetHub
+An e-commerce web experience — product browsing, cart flow, and a clean, responsive shopping UI.
+
+**Stack:** HTML · CSS · JavaScript
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+**[🔗 View on Portfolio →](https://kabirsoomro.github.io/kabeerportfolio/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Digital Library
+A digital library interface for browsing and managing books/resources with a clean, organized layout.
+
+**Stack:** HTML · CSS · JavaScript
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+**[🔗 View on Portfolio →](https://kabirsoomro.github.io/kabeerportfolio/)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💼 SYNTECXHUB Internship Tasks
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+<th>Live</th>
+</tr>
+<tr>
+<td><b>🌐 CodeWise AI Landing Page</b></td>
+<td>AI-powered developer tool landing page</td>
+<td>HTML · CSS · JS</td>
+<td><a href="https://kabirsoomro.github.io/SyntexhubLandingPage/">Visit ↗</a></td>
+</tr>
+<tr>
+<td><b>✅ To-Do List App</b></td>
+<td>Full CRUD task manager with localStorage persistence</td>
+<td>HTML · CSS · JS</td>
+<td><a href="https://kabirsoomro.github.io/Syntexhub_TodoApp/">Visit ↗</a></td>
+</tr>
+<tr>
+<td><b>🧩 World Quiz Challenge</b></td>
+<td>4 categories · 32 questions · score tracking</td>
+<td>HTML · CSS · JS</td>
+<td><a href="https://kabirsoomro.github.io/Syntexhub_QuizApp/">Visit ↗</a></td>
+</tr>
+</table>
+
+<br/>
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institute | Duration |
+|---|---|---|
+| **BSCS** | University of Sindh, Jamshoro | 2023 – 2026 |
+| **Associate Degree in Arts** (First Division) | Shah Abdul Latif University, Khairpur | — |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📫 Let's Build Something Together
+
+<a href="https://linkedin.com/in/kabeer-soomro-010a42244">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://kabirsoomro.github.io/kabeerportfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:gkabeersoomro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00C9FF&center=true&vCenter=true&repeat=true&width=600&lines=%22Code+is+poetry+%E2%80%94+write+it+with+purpose.%22" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:5B21B6,100:2E1760&height=150&section=footer" width="100%"/>
+
+</div>
+
+<!--
+  🐍 TO ADD THE ANIMATED CONTRIBUTION SNAKE ABOVE THE STATS SECTION:
+  1. In this repo, go to Settings → Secrets and variables → Actions is NOT needed (uses GITHUB_TOKEN automatically).
+  2. Create .github/workflows/snake.yml with the Platane/snk action (search "Platane snk github action" for the 15-line template).
+  3. It will auto-generate a github-contribution-grid-snake.svg — then add:
+     <img src="https://raw.githubusercontent.com/KabirSoomro/KabirSoomro/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+-->
