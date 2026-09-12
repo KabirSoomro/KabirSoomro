@@ -1,3 +1,6 @@
+Here's the complete, clean, ready-to-paste `README.md` — all in one block. Just copy everything below and paste it directly into your README file.
+
+```markdown
 <div align="center">
   <!-- Header Banner Image -->
   <!-- Upload your image to your repo and replace the src below with its exact path -->
@@ -43,3 +46,145 @@ Ghulam_Kabir:
   now_exploring: "Dermalyze — Skin disease detection with EfficientNetV2-S + Grad-CAM"
   also_shipped:  ["Aria AI — Claude-powered chat clone", "Pneumonia Detection CNN/VGG16", "GadgetHub", "Digital Library"]
   philosophy: "Code is poetry — write it with purpose."
+```
+
+* 🎯 Building interactive, animation-rich web applications
+* 📱 Strengthening **Flutter** for cross-platform mobile development
+* 🧠 Diving deep into **AI/ML** — CNNs, transfer learning, TensorFlow/Keras
+* 🩺 Shipping my **Final Year Project** — an AI-powered health monitoring app
+* 🤖 Experimenting with **LLM-powered apps** using the Anthropic API
+* 💬 Ask me about: JavaScript, Flutter, React, Firebase, or applied deep learning
+
+## 🛠️ Tech Arsenal
+
+**Languages**
+
+
+**Frontend & Styling**
+
+
+**Mobile, Backend & Cloud**
+
+
+**AI / ML**
+
+
+**Tools & Workflow**
+
+
+## 📊 GitHub Analytics
+
+## 🚀 Featured Projects
+
+### 🩺 Digital Health Analyzer  · Final Year Project
+
+An AI-powered cross-platform mobile health-monitoring app built to give patients and doctors one connected space for care.
+
+**Key Features**
+
+* 👤 Patient registration, profile management, and health history
+* 📅 Doctor appointment scheduling with reminders
+* 🗂️ Electronic Health Records (EHR) stored and synced via Firestore
+* 💬 Real-time in-app chat between patients and doctors
+* 💊 Medicine reminders and push notifications (Firebase Cloud Messaging)
+* 🤖 On-device AI inference for health data analysis (TensorFlow Lite + Google ML Kit)
+
+**Stack:** Flutter · Dart · Firebase (Firestore, Auth, FCM) · TensorFlow Lite · Google ML Kit · Provider/Riverpod
+
+> 🔗 *Repository link coming soon!*
+
+---
+
+### 🔬 Dermalyze
+
+A skin-disease detection AI system that classifies dermatological images and shows *why* it made that call — not just the label.
+
+**Key Features**
+
+* 🧠 **EfficientNetV2-S** backbone for image classification
+* 🔍 **Grad-CAM** heatmaps so predictions are visually explainable, not a black box
+* ⚙️ REST API built with **Flask** to serve predictions
+* 🐳 **Dockerized** for consistent, portable deployment
+* 🛠️ Debugged and resolved real environment conflicts (NumPy/TensorFlow version mismatches on Colab)
+
+**Stack:** Python · TensorFlow/Keras · EfficientNetV2-S · Grad-CAM · Flask · Docker
+
+---
+
+### 🤖 Aria AI
+
+A ChatGPT-style conversational interface, built as a React clone that talks to the **Anthropic API** directly.
+
+**Key Features**
+
+* ⚡ Streaming responses token-by-token for a live "typing" feel
+* 📝 Full **Markdown rendering** for code blocks, lists, and formatted answers
+* 🎨 Clean, minimal chat UI inspired by modern AI assistants
+
+**Stack:** React · JavaScript · Anthropic API · Markdown rendering · Streaming
+
+---
+
+### 🫁 Pneumonia Detection — CNN & VGG16
+
+An applied deep-learning lab project: classifying chest X-rays as pneumonia-positive or normal.
+
+**Key Features**
+
+* 🧠 Custom **CNN** trained from scratch as a baseline
+* 🏗️ **VGG16 transfer learning** model fine-tuned for higher accuracy
+* 📈 Trained and evaluated on chest X-ray image datasets
+* ☁️ Model artifacts saved and version-tracked on Google Drive
+
+**Stack:** Python · TensorFlow/Keras · CNN · VGG16 (Transfer Learning)
+
+---
+
+### 🛒 GadgetHub
+
+A full e-commerce front-end experience — product listings, cart flow, and a smooth, responsive shopping UI from browse to checkout.
+
+**Highlights:** product grid & detail views · cart state management · fully responsive layout
+
+**Stack:** HTML · CSS · JavaScript
+
+**[🔗 View on Portfolio →](https://kabirsoomro.github.io/kabeerportfolio/)**
+
+### 📚 Digital Library
+
+A digital library interface for browsing, searching, and managing books and resources in a clean, organized layout.
+
+**Highlights:** searchable catalog view · organized resource cards · clean information hierarchy
+
+**Stack:** HTML · CSS · JavaScript
+
+**[🔗 View on Portfolio →](https://kabirsoomro.github.io/kabeerportfolio/)**
+
+### ✉️ EmailJS Contact Form
+
+A production-style contact form wired to **EmailJS**, wrapped in a premium, animation-heavy email template design rather than a plain static form.
+
+**Stack:** HTML · CSS (animations) · JavaScript · EmailJS
+
+## 💼 SYNTECXHUB Internship Tasks
+
+*All internship work follows strict, first-person inline commenting conventions across HTML, CSS, and JS.*
+
+## 🎓 Education
+
+| Degree | Institute | Duration |
+| --- | --- | --- |
+| **BSCS** | University of Sindh, Jamshoro | 2023 – 2026 |
+| **Associate Degree in Arts** (First Division) | Shah Abdul Latif University, Khairpur | — |
+
+## 📫 Let's Build Something Together
+
+**Aapko yeh karna hoga:**
+
+1. Apni repository mein us header image ko zaroor upload karein. Agar aap image directly GitHub me upload kar dete hain, toh bas uska exact path us `<img src="...">` tag mein likh dijiyega jahan par `watermarked_img_17686013537721497323.jpg` likha hua hai.
+2. Mujhe aapka "Ghulam Kabir Soomro" profile bohot pasand aaya jismein aapne apni tech journey clearly batayi hui hai. Upar wale snippet ko seedhe copy kar lijiye.
+```
+
+---
+
+**Note:** I noticed the original code had a syntax error in the `About Me` section — the YAML code block wasn't closed properly (` ``` ` was missing before the closing tag). I've fixed that in the version above. Just copy the entire block and paste it into your README.
