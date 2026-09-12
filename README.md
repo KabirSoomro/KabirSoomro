@@ -1,222 +1,286 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 100" width="100%" height="100" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmNmM0MjYyOS00YTllLTQ1MTctOGE2OS02ZjI2MTk4ZWUzMjMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNnohUn+70ifnMsv7C8NINwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxYmE5ODcxMS02MDUyLTRlODItODNkNC0zMjk2MzgwM2E0MDRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNolGgRKf3shKj4u0E+PO3LswAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggi1nKo3n6BUBS7T4fVk/oR4Xu9nQEk2g8d6CDvdK3QwqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIgSFGXEn//vbvYnBRAxNjwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBxYhQKzfHL/bil2E53/fgFClvvJkYStMUPn3ECLUqITGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmY2YzQyNjI5LTRhOWUtNDUxNy04YTY5LTZmMjYxOThlZTMyMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI1YzkyODNmLTI1NjItNDI5ZC1hYTBjLWZiMzYzNDkwZjFlMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCLWcqjefoFQFLtPh9WT+hHhe72dASTaDx3oIO90rdDCqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggGDPbImpw9J8tZLJkDWo4NhvpN97yOZ8P0nNSJVw8ysKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg5UX5S7CKz3nj9LcKzVjyQ22szjRGAuGFV6QxnBcx/It0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQH9Rgqvtx+6g9Bxl3Etnbym3nXMJ5TeE7BgMRrj40vEFXTV2fQ/DoAIPu61x0oPtHF8FvUD2CbnScTY9AknjPF0=</c2pa:manifest></metadata>
-  <defs>
-    <linearGradient id="fadeMaskGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="white" stop-opacity="0"/>
-      <stop offset="8%" stop-color="white" stop-opacity="1"/>
-      <stop offset="92%" stop-color="white" stop-opacity="1"/>
-      <stop offset="100%" stop-color="white" stop-opacity="0"/>
-    </linearGradient>
-    <mask id="fadeMask">
-      <rect x="0" y="0" width="1400" height="100" fill="url(#fadeMaskGrad)"/>
-    </mask>
-  </defs>
-  <rect x="0" y="0" width="1400" height="100" fill="#0D1117"/>
-  <g mask="url(#fadeMask)">
-    <g id="track">
-      <g id="seqA">
-    <g transform="translate(0,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(92,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(184,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(276,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(368,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(460,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(552,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(644,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(736,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(828,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(920,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1012,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1104,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1196,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-line.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1288,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1380,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1472,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1564,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1656,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1748,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" x="0" y="0" width="44" height="44" />
-    </g></g>
-      <g id="seqB" transform="translate(1840,0)">
-    <g transform="translate(0,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(92,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(184,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(276,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(368,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(460,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(552,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(644,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(736,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(828,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(920,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1012,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1104,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1196,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-line.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1288,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1380,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1472,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1564,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1656,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" x="0" y="0" width="44" height="44" />
-    </g>
-    <g transform="translate(1748,28.0)">
-      <rect x="-6" y="-6" width="56" height="56" rx="14"
-            fill="#161B22" stroke="#8A5CFF" stroke-opacity="0.35" stroke-width="1.4"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" x="0" y="0" width="44" height="44" />
-    </g></g>
-      <animateTransform attributeName="transform" attributeType="XML" type="translate"
-        from="-1840,0" to="0,0" dur="30s" repeatCount="indefinite"/>
-    </g>
-  </g>
-</svg>
+<div align="center">
+
+<!-- Moving strip of world dev-tool icons -->
+<img src="./assets/header-marquee.svg" width="100%"/>
+
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1760,50:5B21B6,100:00C9FF&height=250&section=header&text=Ghulam%20Kabir%20Soomro&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Front-End%20Developer%20%7C%20Flutter%20%26%20AI%2FML%20Explorer&descAlignY=62&descSize=19" width="100%"/>
+
+<!-- Animated typing intro -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2600&pause=900&color=8A5CFF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Assalam-o-Alaikum%2C+I'm+Kabeer+%F0%9F%91%8B;BSCS+Undergraduate+%40+University+of+Sindh;Web+Dev+Intern+%40+SYNTECXHUB;Flutter+%2B+AI%2FML+Learner+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://linkedin.com/in/kabeer-soomro-010a42244">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://kabirsoomro.github.io/kabeerportfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" />
+</a>
+<a href="mailto:gkabeersoomro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=KabirSoomro&style=for-the-badge&color=8A5CFF&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+## 🧬 About Me
+
+```yaml
+kabeer:
+  full_name:  "Ghulam Kabir Soomro"
+  role:       "BSCS Undergraduate | Front-End Developer | Flutter Learner"
+  university: "University of Sindh, Jamshoro  (2023 – 2026)"
+  internship: "Web Development Intern @ SYNTECXHUB"
+  now_building:  "Digital Health Analyzer — AI-powered mobile health app (Final Year Project)"
+  now_exploring: "Dermalyze — Skin disease detection with EfficientNetV2-S + Grad-CAM"
+  also_shipped:  ["Aria AI — Claude-powered chat clone", "Pneumonia Detection CNN/VGG16", "GadgetHub", "Digital Library"]
+  philosophy: "Code is poetry — write it with purpose."
+```
+
+- 🎯 Building interactive, animation-rich web applications
+- 📱 Strengthening **Flutter** for cross-platform mobile development
+- 🧠 Diving deep into **AI/ML** — CNNs, transfer learning, TensorFlow/Keras
+- 🩺 Shipping my **Final Year Project** — an AI-powered health monitoring app
+- 🤖 Experimenting with **LLM-powered apps** using the Anthropic API
+- 💬 Ask me about: JavaScript, Flutter, React, Firebase, or applied deep learning
+
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp,dart&theme=dark" />
+
+**Frontend & Styling**
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,figma&theme=dark" />
+
+**Mobile, Backend & Cloud**
+<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,docker&theme=dark" />
+
+**AI / ML**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,py&theme=dark" />
+
+**Tools & Workflow**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KabirSoomro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A5CFF&icon_color=00C9FF&border_radius=12" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KabirSoomro&theme=radical&hide_border=true&background=0D1117&ring=8A5CFF&fire=00C9FF&border_radius=12" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabirSoomro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A5CFF&border_radius=12" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KabirSoomro&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=8A5CFF&point=ffffff" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=KabirSoomro&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🩺 Digital Health Analyzer  <sub>· Final Year Project</sub>
+An AI-powered cross-platform mobile health-monitoring app built to give patients and doctors one connected space for care.
+
+**Key Features**
+- 👤 Patient registration, profile management, and health history
+- 📅 Doctor appointment scheduling with reminders
+- 🗂️ Electronic Health Records (EHR) stored and synced via Firestore
+- 💬 Real-time in-app chat between patients and doctors
+- 💊 Medicine reminders and push notifications (Firebase Cloud Messaging)
+- 🤖 On-device AI inference for health data analysis (TensorFlow Lite + Google ML Kit)
+
+**Stack:** Flutter · Dart · Firebase (Firestore, Auth, FCM) · TensorFlow Lite · Google ML Kit · Provider/Riverpod
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+> 🔗 *Repository link coming soon!*
+
+---
+
+### 🔬 Dermalyze
+A skin-disease detection AI system that classifies dermatological images and shows *why* it made that call — not just the label.
+
+**Key Features**
+- 🧠 **EfficientNetV2-S** backbone for image classification
+- 🔍 **Grad-CAM** heatmaps so predictions are visually explainable, not a black box
+- ⚙️ REST API built with **Flask** to serve predictions
+- 🐳 **Dockerized** for consistent, portable deployment
+- 🛠️ Debugged and resolved real environment conflicts (NumPy/TensorFlow version mismatches on Colab)
+
+**Stack:** Python · TensorFlow/Keras · EfficientNetV2-S · Grad-CAM · Flask · Docker
+
+<img src="https://img.shields.io/badge/Status-Exploring-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+---
+
+### 🤖 Aria AI
+A ChatGPT-style conversational interface, built as a React clone that talks to the **Anthropic API** directly.
+
+**Key Features**
+- ⚡ Streaming responses token-by-token for a live "typing" feel
+- 📝 Full **Markdown rendering** for code blocks, lists, and formatted answers
+- 🎨 Clean, minimal chat UI inspired by modern AI assistants
+
+**Stack:** React · JavaScript · Anthropic API · Markdown rendering · Streaming
+
+<img src="https://img.shields.io/badge/Status-Experimenting-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+---
+
+### 🫁 Pneumonia Detection — CNN & VGG16
+An applied deep-learning lab project: classifying chest X-rays as pneumonia-positive or normal.
+
+**Key Features**
+- 🧠 Custom **CNN** trained from scratch as a baseline
+- 🏗️ **VGG16 transfer learning** model fine-tuned for higher accuracy
+- 📈 Trained and evaluated on chest X-ray image datasets
+- ☁️ Model artifacts saved and version-tracked on Google Drive
+
+**Stack:** Python · TensorFlow/Keras · CNN · VGG16 (Transfer Learning)
+
+<img src="https://img.shields.io/badge/Type-AI%2FML%20Coursework-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 GadgetHub
+A full e-commerce front-end experience — product listings, cart flow, and a smooth, responsive shopping UI from browse to checkout.
+
+**Highlights:** product grid & detail views · cart state management · fully responsive layout
+
+**Stack:** HTML · CSS · JavaScript
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+**[🔗 View on Portfolio →](https://kabirsoomro.github.io/kabeerportfolio/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Digital Library
+A digital library interface for browsing, searching, and managing books and resources in a clean, organized layout.
+
+**Highlights:** searchable catalog view · organized resource cards · clean information hierarchy
+
+**Stack:** HTML · CSS · JavaScript
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+**[🔗 View on Portfolio →](https://kabirsoomro.github.io/kabeerportfolio/)**
+
+</td>
+</tr>
+</table>
+
+### ✉️ EmailJS Contact Form
+A production-style contact form wired to **EmailJS**, wrapped in a premium, animation-heavy email template design rather than a plain static form.
+
+**Stack:** HTML · CSS (animations) · JavaScript · EmailJS
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<br/>
+
+## 💼 SYNTECXHUB Internship Tasks
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+<th>Live</th>
+</tr>
+<tr>
+<td><b>🌐 CodeWise AI Landing Page</b></td>
+<td>AI-powered developer tool landing page with clean sectioned layout</td>
+<td>HTML · CSS · JS</td>
+<td><a href="https://kabirsoomro.github.io/SyntexhubLandingPage/">Visit ↗</a></td>
+</tr>
+<tr>
+<td><b>✅ To-Do List App</b></td>
+<td>Full CRUD task manager with persistent <code>localStorage</code> saving</td>
+<td>HTML · CSS · JS</td>
+<td><a href="https://kabirsoomro.github.io/Syntexhub_TodoApp/">Visit ↗</a></td>
+</tr>
+<tr>
+<td><b>🧩 World Quiz Challenge</b></td>
+<td>4 categories · 32 questions · live score tracking</td>
+<td>HTML · CSS · JS</td>
+<td><a href="https://kabirsoomro.github.io/Syntexhub_QuizApp/">Visit ↗</a></td>
+</tr>
+</table>
+
+*All internship work follows strict, first-person inline commenting conventions across HTML, CSS, and JS.*
+
+<br/>
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institute | Duration |
+|---|---|---|
+| **BSCS** | University of Sindh, Jamshoro | 2023 – 2026 |
+| **Associate Degree in Arts** (First Division) | Shah Abdul Latif University, Khairpur | — |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📫 Let's Build Something Together
+
+<a href="https://linkedin.com/in/kabeer-soomro-010a42244">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://kabirsoomro.github.io/kabeerportfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:gkabeersoomro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00C9FF&center=true&vCenter=true&repeat=true&width=600&lines=%22Code+is+poetry+%E2%80%94+write+it+with+purpose.%22" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:5B21B6,100:2E1760&height=150&section=footer" width="100%"/>
+
+<!-- Moving strip of world dev-tool icons, reversed direction -->
+<img src="./assets/footer-marquee.svg" width="100%"/>
+
+</div>
+
+<!--
+  📁 SETUP — this README references two local image files:
+      ./assets/header-marquee.svg
+      ./assets/footer-marquee.svg
+  Both were generated together with this file. In your GitHub profile repo
+  (must be named exactly "KabirSoomro/KabirSoomro"), create an "assets" folder
+  and upload both SVGs there so the relative paths resolve.
+
+  🐍 OPTIONAL — animated contribution snake:
+  Add the free "Platane/snk" GitHub Action to this same profile repo and it
+  will auto-generate a contribution-grid snake you can drop in above the
+  GitHub Analytics section. Search "Platane snk github action" for the
+  ready-made workflow file (about 15 lines, no extra secrets needed).
+-->
