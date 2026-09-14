@@ -1,19 +1,10 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER — banner + intro fused together ═══════════════════ -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1760,50:5B21B6,100:00C9FF&height=260&section=header&text=Ghulam%20Kabir%20Soomro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Front-End%20Developer%20%7C%20Flutter%20%26%20AI%2FML%20Explorer&descAlignY=44&descSize=17" 
-  width="100%" 
-  alt="header"
-/>
+<img src="./assets/header-banner.svg" width="100%" alt="header" />
 
-<!-- typing animation sits pulled up INTO the header block, no gap -->
 <a href="https://kabirsoomro.github.io/kabeerportfolio/">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=8A5CFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=Assalam-o-Alaikum%2C+I'm+Kabeer+%F0%9F%91%8B;BSCS+Undergraduate+%40+University+of+Sindh%2C+Jamshoro;Web+Dev+Intern+%40+SYNTECXHUB;Flutter+%2B+AI%2FML+Learner+%F0%9F%A7%A0;Turning+ideas+into+animated%2C+premium+UI+%E2%9C%A8" 
-    alt="Typing SVG"
-    style="margin-top:-55px;"
-  />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=8A5CFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=Assalam-o-Alaikum%2C+I'm+Kabeer+%F0%9F%91%8B;BSCS+Undergraduate+%40+University+of+Sindh%2C+Jamshoro;Web+Dev+Intern+%40+SYNTECXHUB;Flutter+%2B+AI%2FML+Learner+%F0%9F%A7%A0;Turning+ideas+into+animated%2C+premium+UI+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
