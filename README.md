@@ -4,7 +4,7 @@
 <img src="./assets/header-banner.svg" width="100%" alt="header" />
 
 <a href="https://kabirsoomro.github.io/kabeerportfolio/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=8A5CFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=Assalam-o-Alaikum%2C+I'm+Kabeer+%F0%9F%91%8B;BSCS+Undergraduate+%40+University+of+Sindh%2C+Jamshoro;Web+Dev+Intern+%40+SYNTECXHUB;Flutter+%2B+AI%2FML+Learner+%F0%9F%A7%A0;Turning+ideas+into+animated%2C+premium+UI+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=8A5CFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=170&lines=Assalam-o-Alaikum%2C+I'm+Kabeer+%F0%9F%91%8B;BSCS+Undergraduate+%40+University+of+Sindh%2C+Jamshoro;Web+Dev+Intern+%40+SYNTECXHUB;Flutter+%2B+AI%2FML+Learner+%F0%9F%A7%A0;Turning+ideas+into+animated%2C+premium+UI+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,22 +30,30 @@
 
 <h2 align="center">🧬 About Me</h2>
 
-```yaml
-kabeer:
-  full_name: "Ghulam Kabir Soomro"
-  role: "BSCS Undergraduate | Front-End Developer | Flutter Learner"
-  university: "University of Sindh, Jamshoro"
-  internship: "Web Development Intern @ SYNTECXHUB"
-  currently_building: "Digital Health Analyzer — AI-powered mobile health app (Final Year Project)"
-  currently_exploring: "Dermalyze — Skin disease detection with EfficientNetV2-S + Grad-CAM"
-  fun_fact: "Turns complex problems into simple, beautiful, animated interfaces ✨"
-```
+<table>
+<tr>
+<td width="38%" valign="middle" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</td>
+<td width="62%" valign="middle">
 
-- 🎯 Building interactive, animation-rich web applications
-- 📱 Strengthening Flutter for cross-platform mobile development
-- 🧠 Diving into AI/ML with TensorFlow, Keras & TensorFlow Lite
-- 🩺 Shipping my Final Year Project — an AI-powered health monitoring app
-- 💬 Ask me about: JavaScript, Flutter, React, or Firebase
+&nbsp;&nbsp;🎓&nbsp; **BSCS Undergraduate** — University of Sindh, Jamshoro `2023–2026`
+<br/>
+&nbsp;&nbsp;💼&nbsp; **Web Dev Intern** @ SYNTECXHUB — shipping project-based tasks
+<br/>
+&nbsp;&nbsp;🩺&nbsp; Building my **Final Year Project** — Digital Health Analyzer, an AI-powered mobile health app
+<br/>
+&nbsp;&nbsp;🔬&nbsp; Exploring **Dermalyze** — skin disease detection with EfficientNetV2-S + Grad-CAM
+<br/>
+&nbsp;&nbsp;🧠&nbsp; Learning **AI/ML** with TensorFlow, Keras & TensorFlow Lite
+<br/>
+&nbsp;&nbsp;💬&nbsp; Ask me about: `JavaScript` `Flutter` `React` `Firebase`
+<br/>
+&nbsp;&nbsp;✨&nbsp; *Turning complex problems into simple, beautiful, animated interfaces*
+
+</td>
+</tr>
+</table>
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
